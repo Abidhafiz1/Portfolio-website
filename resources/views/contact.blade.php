@@ -1,5 +1,7 @@
 @extends('layouts.main')
 
+@section('title','Contact')
+
 @section('content')
     <!--================ Start Banner Area =================-->
     <section class="banner_area">

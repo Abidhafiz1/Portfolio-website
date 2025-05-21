@@ -1,5 +1,7 @@
 @extends('Layouts.main')
 
+@section('title','home')
+
 @section('content')
 
 	<!--================ Start Home Banner Area =================-->

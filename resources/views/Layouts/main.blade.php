@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" href="./assets/img/favicon.png" type="image/png">
-	<title>Satner Portfolio</title>
+	<title> Satner Portfolio | @yield('title')</title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="./assets/css/bootstrap.css">
 	<link rel="stylesheet" href="./assets/vendors/linericon/style.css">

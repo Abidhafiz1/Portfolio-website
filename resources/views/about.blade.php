@@ -1,5 +1,6 @@
 @extends('Layouts.main')
 
+@section('title','About')
 
 @section('content')
     <!--================ Start Banner Area =================-->
